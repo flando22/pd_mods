@@ -1,0 +1,17 @@
+    {
+    	"name" : "DLC Unlocker",
+    	"version" : "1.0",
+    	"priority" : 1001,
+    	"hooks" : [
+    		{
+    			"hook_id" : "lib/managers/dlcmanager",
+            		"script_path" : "dlc.luac"
+    		}
+    	],
+    	"persist_scripts" : [
+            {
+                "global" : "MyGlobalValue",
+                "script_path" : "dlc.luac"
+            }
+    	]
+    }

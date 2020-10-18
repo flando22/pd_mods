@@ -1,0 +1,15 @@
+{	
+	"locksmasher_menu_title"	: "Lock Smasher Settings",
+	"locksmasher_menu_desc"		: "",
+	
+	"locksmasher_enable_title"	: "Enabled",
+	"locksmasher_enable_desc"	: "Toggle Lock Smasher on or off",
+	"locksmasher_sparks_title"	: "Show Sparks",
+	"locksmasher_sparks_desc"	: "Toggle whether or not to show cutting particles when breaking locks",
+	"locksmasher_mode_title"	: "Mode",
+	"locksmasher_mode_desc"		: "Select which melee weapons are allowed to break locks open",
+	
+	"mode_freeforall"			: "Every Melee Weapon",
+	"mode_powertools"			: "Power Tools Only",
+	"mode_chainsawonly"			: "Chainsaw Only"
+}

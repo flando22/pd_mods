@@ -1,0 +1,18 @@
+{
+  "name": "silent,
+  "description": " ",
+  "Author": " ",
+  "contact": " ",
+  "version": "1.0",
+  "blt_version": 2,
+  "keybinds": [
+    {
+      "name": "silent",
+      "description": " ",
+      "script_path": "lua.lua",
+      "run_in_menu": false,
+      "run_in_game": true,
+      "localized": false
+    }
+  ]
+}

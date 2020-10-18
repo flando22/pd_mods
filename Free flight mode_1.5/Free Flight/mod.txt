@@ -1,0 +1,13 @@
+{
+    "name" : "Free Flight mode",
+    "description" : "Press F9",
+    "author" : "Anonymous",
+    "contact" : "None",
+    "version" : "1.5",
+    "hooks" : [
+	  {
+	    "hook_id" : "lib/entry"
+	    "script_path" : "TB_freeflight.lua"
+	  }
+    ]
+}

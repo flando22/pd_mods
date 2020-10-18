@@ -1,0 +1,13 @@
+{
+    	"name" : "Silenced Weapons",
+    	"description" : "Shhhh!",
+    	"author" : "Roger",
+    	"contact" : "him lmao",
+    	"version" : "1.0",
+    	"hooks" : [
+        {   
+            "hook_id" : "lib/tweak_data/weapontweakdata", 
+            "script_path" : "code.lua"
+        }
+    	]
+    }

@@ -1,0 +1,1 @@
+{"mods_gui":{"show_mod_icons":false,"show_libraries":false},"keybinds":[],"mods":{"base":{"enabled":true,"updates":{"payday2bltwsockdll":true,"payday2blt":true},"safe":false},"P3DUnlocker":{"enabled":true,"updates":{"P3DUnlocker":true},"safe":true}},"language":"en"}

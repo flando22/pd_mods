@@ -1,0 +1,1 @@
+{"dashcontrols":4,"slideloud":3,"wallrunwpnangle":15,"slidewpnangle":15,"runkick":true,"goldeneye":1,"kickyeet":1,"slidestealth":2}

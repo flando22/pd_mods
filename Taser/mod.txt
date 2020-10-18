@@ -1,0 +1,11 @@
+{
+  	"name" : "Taser stun gun",
+    	"description" : "You can stun enemies from 10 meters away like a taser.",
+    	"author" : "iris"
+	"contact" : "",
+	"version" : "1.00",
+	"hooks" : [
+
+   { "hook_id" : "lib/tweak_data/blackmarket/meleeweaponstweakdata", "script_path" : "taser.lua" }
+]
+}

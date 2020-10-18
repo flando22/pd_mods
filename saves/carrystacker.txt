@@ -1,0 +1,1 @@
+{"toggle_stealth":false,"toggle_offline":false,"movement_penalties":{"heavy":15,"mega_heavy":25,"medium":10,"coke_light":5,"light":5,"very_heavy":20,"slightly_very_heavy":15,"being":15},"toggle_host":true}

@@ -1,0 +1,38 @@
+{
+  "menu_id" : "locksmasher_menu",
+  "parent_menu_id" : "blt_options",
+  "title" : "locksmasher_menu_title",
+  "description" : "locksmasher_menu_desc",
+  "back_callback": "LockSmasher_SaveData",
+  "items" : [
+    {
+      "type" : "toggle",
+      "id" : "locksmasher_enable",
+      "title" : "locksmasher_enable_title",
+      "description" : "locksmasher_enable_desc",
+      "callback" : "LockSmasher_Enabled",
+	  "value" : "Enabled"
+    },
+    {
+      "type" : "toggle",
+      "id" : "locksmasher_sparks",
+      "title" : "locksmasher_sparks_title",
+      "description" : "locksmasher_sparks_desc",
+      "callback" : "LockSmasher_Sparks",
+	  "value" : "Sparks"
+    },
+	{
+	  "type" : "multiple_choice",
+	  "id" : "locksmasher_mode",
+	  "title" : "locksmasher_mode_title",
+	  "description" : "locksmasher_mode_desc",
+	  "callback" : "LockSmasher_Mode",
+	  "items" : [
+		"mode_powertools",
+		"mode_chainsawonly",
+		"mode_freeforall"
+	  ],
+	  "value" : "Mode"
+	}
+  ]
+}

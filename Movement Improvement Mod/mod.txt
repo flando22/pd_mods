@@ -1,0 +1,18 @@
+{
+	"name" : "movement",
+	"description" : "falling damage and speed",
+	"author" : "P",
+	"contact" : "No",
+	"blt_version": 2,
+	"version" : "1.0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/beings/player/playerdamage",
+			"script_path" : "Falling.lua"
+		},
+		{
+			"hook_id" : "lib/tweak_data/playertweakdata",
+			"script_path" : "Movement.lua"
+		}
+	]
+}
